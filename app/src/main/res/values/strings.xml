@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">HouseHolder</string>
+    <string name="login_layout_email_hint">Email</string>
+    <string name="login_layout_password_hint">Password</string>
+    <string name="login_layout_button_login">Login</string>
+    <string name="login_layout_button_register">Register</string>
+    <string name="login_layout_imageview_description">App Logo</string>
 </resources>
